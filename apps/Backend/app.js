@@ -16,7 +16,7 @@ import loginRoute from './src/routes/login.js'
 import logoutRoute from "./src/routes/logout.js";
 import resourceRoute from "./src/routes/resources.js";
 import aiRoute from "./src/routes/ai.js";
-import loginController from "./src/controllers/loginController.js";
+import loginController from "./src/controllers/LoginController.js";
 import userRoute from './src/routes/user.js';
 import globalRoute from './src/routes/global.js';
 
